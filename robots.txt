@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xiaoYuan928.github.io/chatgpt-plus-guide/sitemap.xml
